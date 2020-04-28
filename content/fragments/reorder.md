@@ -1,10 +1,5 @@
 ---
-title: Shuffling them around
+title: Hope you can do it too!
 ---
-
-{{% inline_fragment content="some" index="1" %}}
-
-{{% inline_fragment content="funny" index="3" %}}
-
-{{% inline_fragment content="order" index="2" %}}
+ Questions? Ask me!
 

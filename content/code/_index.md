@@ -1,8 +1,8 @@
 ---
-title: Code
+title: Build Presentation with Hugo and Markdown
 ---
 
 ```text
-Code is awesome!
+You can use static sites and markdown syntax to build presentations.
 ```
 

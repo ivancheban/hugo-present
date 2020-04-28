@@ -1,7 +1,7 @@
 ---
-title: Hugo Theme Reveal.js
+title: Ivan created this presentation with Hugo
 ---
 
 ### The HTML Presentation Framework theme for Hugo 
 
-Created by [Jake Howard](https://github.com/RealOrangeOne/hugo-theme-revealjs), [Hugo](https://gohugo.io) and [Reveal.js](https://revealjs.com/#/)
+This is the beginning of the presentation. Use arrows to proceed to the next slide.
