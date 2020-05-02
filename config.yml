@@ -2,6 +2,7 @@ baseURL: "/"
 title: Hugo Theme RevealJS
 themesDir: "themes"
 theme: "hugo-theme-revealjs"
+googleAnalytics: "UA-162550995-12"
 
 params:
     reveal_theme: black
